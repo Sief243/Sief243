@@ -2,4 +2,4 @@
 - 👀 I’m interested in web developing 
 - 🌱 I’m currently learning react.js 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me sief243realy@yahoo.com
+- 📫 How to reach me //
